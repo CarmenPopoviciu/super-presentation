@@ -1,0 +1,29 @@
+{
+  "name": "super-presentation",
+  "version": "0.6.0",
+  "authors": [
+    "Guilherme Rv Coelho <guilhermervcoelho@gmail.com>"
+  ],
+  "description": "A polymer slide presentation element",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "slide",
+    "presentation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "iron-elements": "PolymerElements/iron-elements#^1.0.0",
+    "paper-elements": "PolymerElements/paper-elements#^1.0.1"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
